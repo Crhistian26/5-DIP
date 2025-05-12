@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "Clases/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Clases.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Clases.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "Clases/1.0.0": {
-      "type": "project",
-      "path": "../Clases/Clases.csproj",
-      "msbuildProject": "../Clases/Clases.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "Clases >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\J.Crhistian\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Principio DIP\\Principio DIP.csproj",
-      "projectName": "Principio DIP",
-      "projectPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Principio DIP\\Principio DIP.csproj",
+      "projectUniqueName": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj",
+      "projectName": "Clases",
+      "projectPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj",
       "packagesPath": "C:\\Users\\J.Crhistian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Principio DIP\\obj\\",
+      "outputPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,11 +39,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj": {
-              "projectPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

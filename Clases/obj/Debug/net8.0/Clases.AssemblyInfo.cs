@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Principio DIP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Clases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b264433bb2f91374c62cc9df50581f6e1f339ea1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Principio DIP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Principio DIP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Clases")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Clases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

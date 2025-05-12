@@ -1,0 +1,12 @@
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\bin\Debug\net8.0\Clases.deps.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\bin\Debug\net8.0\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\bin\Debug\net8.0\Clases.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.AssemblyInfo.cs
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.sourcelink.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\refint\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\Clases.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Clases\obj\Debug\net8.0\ref\Clases.dll

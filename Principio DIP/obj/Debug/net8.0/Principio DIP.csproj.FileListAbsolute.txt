@@ -1,0 +1,19 @@
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Principio DIP.exe
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Principio DIP.deps.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Principio DIP.runtimeconfig.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Principio DIP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Principio DIP.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Clases.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\bin\Debug\net8.0\Clases.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.csproj.AssemblyReference.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.AssemblyInfoInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.AssemblyInfo.cs
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.csproj.CoreCompileInputs.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.sourcelink.json
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principi.A33BCA3D.Up2Date
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\refint\Principio DIP.dll
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.pdb
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\Principio DIP.genruntimeconfig.cache
+C:\Users\J.Crhistian\Documents\1.Proyectos de practica\Practicas de C#\5 DIP\Principio DIP\obj\Debug\net8.0\ref\Principio DIP.dll

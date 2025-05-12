@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8031598F-8BE3-43A8-8757-619F47884521}|Principio DIP\\Principio DIP.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\principio dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8031598F-8BE3-43A8-8757-619F47884521}|Principio DIP\\Principio DIP.csproj|solutionrelative:principio dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\con_dip\\dip_customer_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\con_dip\\dip_customer_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\con_dip\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\con_dip\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\con_dip\\dip_customer_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\con_dip\\dip_customer_repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\con_dip\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\con_dip\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|c:\\users\\j.crhistian\\documents\\1.proyectos de practica\\practicas de c#\\5 dip\\clases\\clases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{197936BA-F48C-48D2-9729-D444506B21C5}|Clases\\Clases.csproj|solutionrelative:clases\\clases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Principio DIP\\Program.cs",
+              "RelativeDocumentMoniker": "Principio DIP\\Program.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Principio DIP\\Program.cs",
+              "RelativeToolTip": "Principio DIP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:21:01.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIP_Customer_Repository.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\DIP_Customer_Repository.cs",
+              "RelativeDocumentMoniker": "Clases\\Con_DIP\\DIP_Customer_Repository.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\DIP_Customer_Repository.cs",
+              "RelativeToolTip": "Clases\\Con_DIP\\DIP_Customer_Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:20:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\IRepository.cs",
+              "RelativeDocumentMoniker": "Clases\\Con_DIP\\IRepository.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\IRepository.cs",
+              "RelativeToolTip": "Clases\\Con_DIP\\IRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:19:27.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\IService.cs",
+              "RelativeDocumentMoniker": "Clases\\Con_DIP\\IService.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\IService.cs",
+              "RelativeToolTip": "Clases\\Con_DIP\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:16:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIP_Customer_Service.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\DIP_Customer_Service.cs",
+              "RelativeDocumentMoniker": "Clases\\Con_DIP\\DIP_Customer_Service.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Con_DIP\\DIP_Customer_Service.cs",
+              "RelativeToolTip": "Clases\\Con_DIP\\DIP_Customer_Service.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:15:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Clases\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\CustomerService.cs",
+              "RelativeToolTip": "Clases\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:02:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Clases\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\CustomerRepository.cs",
+              "RelativeToolTip": "Clases\\CustomerRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:02:28.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clases",
+              "DocumentMoniker": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj",
+              "RelativeDocumentMoniker": "Clases\\Clases.csproj",
+              "ToolTip": "C:\\Users\\J.Crhistian\\Documents\\1.Proyectos de practica\\Practicas de C#\\5 DIP\\Clases\\Clases.csproj",
+              "RelativeToolTip": "Clases\\Clases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T15:02:25.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
